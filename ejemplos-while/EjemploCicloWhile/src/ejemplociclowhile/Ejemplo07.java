@@ -50,3 +50,13 @@ public class Ejemplo07 {
 
     }
 }
+/*
+Dentro de este codigo se puede observar un programa mediante el cual se ingrese
+las notas de estudiantes para sacar promedio, donde mientras la bandera sea
+igual a TRUE se va a seguir repitiendo el ciclo, mienyras que si la bandera es
+FALSE se va a terminar el ciclo, la variable contador siempre y cuando la 
+bandera sea TRUE va a aumentarse +1,vel contador servira 
+para dividir el acumulado de las notas ingresadas o sea la suma de estas, para 
+el contador que representaria el numero de notas, finalmente para salir del 
+ciclo el usuario debe ingresar el -1 y se le mostrara su promedio final.
+*/
