@@ -38,5 +38,7 @@ public class Ejemplo02 {
 El codigo hace un contador que tiene un limite que se da por teclado, por lo 
 tanto el limite lo da el usuario en donde mientras el contador divido para 2 
 tenga un residuo diferente de cero se debe imprimir el valor del contador en ese
-instante, caso contrario al contador se va sumando 1
+instante, caso contrario al contador se va sumando 1, lo que finalmente
+dependiendo del limte los numeros que se presenten van a ser impares debido a
+que su modulo en la division para 2 es diferente de 0.
 */
